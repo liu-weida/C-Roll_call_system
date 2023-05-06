@@ -24,3 +24,9 @@ The system can perform the following functions:
   3.2 Check Student Attendance
     This system allows you to check the number of absences and the names of the courses missed by the student so far.
       
+
+Completely open and free to use. 
+(You can even use it without mentioning my name.)
+
+If you have any questions about this project, please feel free to discuss them with me. 
+My contact information is liuweida1010@gmail.com.
